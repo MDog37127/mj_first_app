@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">mj</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="button_send">Send</string>
+    <string name="send_off">The Great Story Awaits...</string>
+</resources>
